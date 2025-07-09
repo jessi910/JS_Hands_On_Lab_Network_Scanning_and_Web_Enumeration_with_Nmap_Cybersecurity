@@ -23,3 +23,5 @@ Perform basic network reconnaissance on a local network using Nmap. Detect live 
 ### Step 1: Basic Host and Port Scan  
 ```bash
 nmap 10.10.223.43
+
+## 4. 🔍Screenshots Attached

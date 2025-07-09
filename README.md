@@ -7,7 +7,7 @@ Network reconnaissance and service enumeration using Nmap, including web enumera
 ---
 
 ## 1. 🎯 Objective  
-Perform basic network reconnaissance on a remote system using Nmap. Detect live hosts, enumerate open ports, identify running services, and explore accessible web resources to gather further information.
+Perform basic network reconnaissance on a local network using Nmap. Detect live hosts, enumerate open ports, identify running services, and explore accessible web resources to gather further information.
 
 ---
 
